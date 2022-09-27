@@ -438,4 +438,5 @@ const blogdata = (req, res) => {
     },
     
     ])}
+    
     module.exports.blogprojectapi=blogdata;
